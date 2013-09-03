@@ -1,0 +1,101 @@
+D:\Lalit Joshi Backup\WinServ\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.exe
+D:\Lalit Joshi Backup\WinServ\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.pdb
+D:\Lalit Joshi Backup\WinServ\HelpDeskMailReader\obj\Debug\ResolveAssemblyReference.cache
+D:\Lalit Joshi Backup\WinServ\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.exe
+D:\Lalit Joshi Backup\WinServ\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.pdb
+D:\Lalit Joshi Backup\WinServ\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.csproj.ResolveComReference.cache
+D:\Lalit Joshi Backup\WinServ_gpi\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.csproj.ResolveComReference.cache
+D:\Lalit Joshi Backup\WinServ_gpi\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.exe
+D:\Lalit Joshi Backup\WinServ_gpi\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.pdb
+D:\Lalit Joshi Backup\WinServ_gpi\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.exe
+D:\Lalit Joshi Backup\WinServ_gpi\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.pdb
+D:\Lalit Joshi Backup\WinServ_gpi\HelpDeskMailReader\obj\Debug\ResolveAssemblyReference.cache
+D:\Vishal Help Desk BackUp 05june2012\re_naga\WinServ_gpi\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.csproj.ResolveComReference.cache
+D:\Vishal Help Desk BackUp 05june2012\re_naga\WinServ_gpi\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.exe
+D:\Vishal Help Desk BackUp 05june2012\re_naga\WinServ_gpi\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.pdb
+D:\test\WinServ_gpi\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.csproj.ResolveComReference.cache
+D:\test\WinServ_gpi\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.exe
+D:\test\WinServ_gpi\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.pdb
+D:\test\WinServ_gpi\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.exe
+D:\test\WinServ_gpi\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.pdb
+D:\test\WinServ_gpi\HelpDeskMailReader\obj\Debug\ResolveAssemblyReference.cache
+C:\WinServ_EIH_new\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.csproj.ResolveComReference.cache
+C:\WinServ_EIH_new\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.exe
+C:\WinServ_EIH_new\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.pdb
+C:\WinServ_EIH_new\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.exe
+C:\WinServ_EIH_new\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.pdb
+C:\WinServ_EIH_new\HelpDeskMailReader\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\WinServ_EIH_new\HelpDeskMailReader\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\WinServ_EIH_new\HelpDeskMailReader\obj\Debug\ResolveAssemblyReference.cache
+C:\New Folder (2)\WinServ_EIH_new\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.csproj.ResolveComReference.cache
+C:\New Folder (2)\WinServ_EIH_new\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.exe
+C:\New Folder (2)\WinServ_EIH_new\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.pdb
+C:\New Folder (2)\WinServ_EIH_new\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.exe
+C:\New Folder (2)\WinServ_EIH_new\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.pdb
+C:\New Folder (2)\WinServ_EIH_new\HelpDeskMailReader\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\New Folder (2)\WinServ_EIH_new\HelpDeskMailReader\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\New Folder (2)\WinServ_EIH_new\HelpDeskMailReader\obj\Debug\ResolveAssemblyReference.cache
+C:\New Folder (2)\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.csproj.ResolveComReference.cache
+C:\New Folder (2)\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.exe
+C:\New Folder (2)\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.pdb
+C:\New Folder (2)\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\ResolveAssemblyReference.cache
+C:\New Folder (2)\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.exe
+C:\New Folder (2)\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.pdb
+C:\New Folder (2)\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\New Folder (2)\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.csproj.ResolveComReference.cache
+C:\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.exe
+C:\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.pdb
+C:\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.exe
+C:\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.pdb
+C:\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.exe
+C:\Documents and Settings\Administrator\Desktop\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.pdb
+C:\Documents and Settings\Administrator\Desktop\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.exe
+C:\Documents and Settings\Administrator\Desktop\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.pdb
+C:\Documents and Settings\Administrator\Desktop\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\Administrator\Desktop\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Documents and Settings\Administrator\Desktop\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\tested\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\tested\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.exe
+C:\Documents and Settings\Administrator\Desktop\tested\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.pdb
+C:\Documents and Settings\Administrator\Desktop\tested\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.exe
+C:\Documents and Settings\Administrator\Desktop\tested\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.pdb
+C:\Documents and Settings\Administrator\Desktop\tested\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\Administrator\Desktop\tested\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Documents and Settings\Administrator\Desktop\tested\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\tested\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.exe.config
+C:\Documents and Settings\Administrator\Desktop\tested\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Administrator\Desktop\tested\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Administrator\Desktop\tested\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\03-07-2013\tested\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.exe.config
+D:\03-07-2013\tested\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.csproj.ResolveComReference.cache
+D:\03-07-2013\tested\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.exe
+D:\03-07-2013\tested\30June7pm\WinServ_EIH_new_Meenakshi2\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.pdb
+D:\FINAL EIH\EIH_AutoMail\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.csproj.ResolveComReference.cache
+D:\FINAL EIH\EIH_AutoMail\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.exe
+D:\FINAL EIH\EIH_AutoMail\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.pdb
+D:\FINAL EIH\EIH_AutoMail\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.exe
+D:\FINAL EIH\EIH_AutoMail\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.pdb
+D:\FINAL EIH\EIH_AutoMail\HelpDeskMailReader\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\FINAL EIH\EIH_AutoMail\HelpDeskMailReader\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\FINAL EIH\EIH_AutoMail\HelpDeskMailReader\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\FINAL EIH\EIH_AutoMail\HelpDeskMailReader\obj\Debug\ResolveAssemblyReference.cache
+D:\FINAL EIH\EIH_AutoMail\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.exe.config
+D:\test\EIH_AutoMail\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.exe.config
+D:\test\EIH_AutoMail\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.csproj.ResolveComReference.cache
+D:\test\EIH_AutoMail\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.exe
+D:\test\EIH_AutoMail\HelpDeskMailReader\obj\Debug\ResolveAssemblyReference.cache
+D:\test\EIH_AutoMail\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.exe
+D:\test\EIH_AutoMail\HelpDeskMailReader\bin\Debug\HelpDeskMailReader.pdb
+D:\test\EIH_AutoMail\HelpDeskMailReader\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\test\EIH_AutoMail\HelpDeskMailReader\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\test\EIH_AutoMail\HelpDeskMailReader\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\test\EIH_AutoMail\HelpDeskMailReader\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\test\EIH_AutoMail\HelpDeskMailReader\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\test\EIH_AutoMail\HelpDeskMailReader\obj\Debug\HelpDeskMailReader.pdb
+D:\FINAL EIH\EIH_AutoMail\HelpDeskMailReader\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\FINAL EIH\EIH_AutoMail\HelpDeskMailReader\bin\Debug\Microsoft.Office.Interop.Excel.xml

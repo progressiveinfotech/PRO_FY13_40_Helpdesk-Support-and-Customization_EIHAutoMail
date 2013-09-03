@@ -1,0 +1,20 @@
+D:\Lalit Backup\NNMCallLoging(SEBI)\WinServ\TestWinServ\obj\Debug\ResolveAssemblyReference.cache
+D:\Lalit Backup\NNMCallLoging(SEBI)\WinServ\TestWinServ\obj\Debug\TestWinServ.Form1.resources
+D:\Lalit Backup\NNMCallLoging(SEBI)\WinServ\TestWinServ\obj\Debug\TestWinServ.Properties.Resources.resources
+D:\Lalit Backup\NNMCallLoging(SEBI)\WinServ\TestWinServ\obj\Debug\TestWinServ.csproj.GenerateResource.Cache
+D:\Lalit Backup\NNMCallLoging(SEBI)\WinServ\TestWinServ\bin\Debug\TestWinServ.exe
+D:\Lalit Backup\NNMCallLoging(SEBI)\WinServ\TestWinServ\bin\Debug\TestWinServ.pdb
+D:\Lalit Backup\NNMCallLoging(SEBI)\WinServ\TestWinServ\bin\Debug\WinServ.exe
+D:\Lalit Backup\NNMCallLoging(SEBI)\WinServ\TestWinServ\bin\Debug\WinServ.pdb
+D:\Lalit Backup\NNMCallLoging(SEBI)\WinServ\TestWinServ\obj\Debug\TestWinServ.exe
+D:\Lalit Backup\NNMCallLoging(SEBI)\WinServ\TestWinServ\obj\Debug\TestWinServ.pdb
+D:\Lalit Joshi Backup\WinServ\TestWinServ\obj\Debug\TestWinServ.exe
+D:\Lalit Joshi Backup\WinServ\TestWinServ\obj\Debug\TestWinServ.pdb
+D:\Lalit Joshi Backup\WinServ\TestWinServ\bin\Debug\TestWinServ.exe
+D:\Lalit Joshi Backup\WinServ\TestWinServ\bin\Debug\TestWinServ.pdb
+D:\Lalit Joshi Backup\WinServ\TestWinServ\bin\Debug\WinServ.exe
+D:\Lalit Joshi Backup\WinServ\TestWinServ\bin\Debug\WinServ.pdb
+D:\Lalit Joshi Backup\WinServ\TestWinServ\obj\Debug\ResolveAssemblyReference.cache
+D:\Lalit Joshi Backup\WinServ\TestWinServ\obj\Debug\TestWinServ.Form1.resources
+D:\Lalit Joshi Backup\WinServ\TestWinServ\obj\Debug\TestWinServ.Properties.Resources.resources
+D:\Lalit Joshi Backup\WinServ\TestWinServ\obj\Debug\TestWinServ.csproj.GenerateResource.Cache
